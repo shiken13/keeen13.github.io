@@ -340,6 +340,8 @@ h2 {
   padding: 60px 60px;
   padding-bottom: 100px;
   /* margin-bottom: 100px; */
+  background-image: url("../image/wall2.jpg");
+  background-size: cover;
 }
 #about h2 {
   color: rgb(3, 3, 26);
