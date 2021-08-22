@@ -340,12 +340,11 @@ h2 {
   padding: 60px 60px;
   padding-bottom: 100px;
   /* margin-bottom: 100px; */
-  /* background-image: url(../image/wall3.jpg) !important; */
+  background-image: url(wall3.jpg) !important;
   /* background-size: cover; */
 }
 .img-bg-01 {
-  background: url(../image/wall3.jpg) center center no-repeat !important;
-  background-size: cover;
+  background-image: url(wall3.jpg) !important;
 }
 #about h2 {
   color: rgb(3, 3, 26);
