@@ -340,7 +340,7 @@ h2 {
   padding: 60px 60px;
   padding-bottom: 100px;
   /* margin-bottom: 100px; */
-  background-image: url(../image/wall3.jpg);
+  background-image: url(../image/wall3.jpg) !important;
   /* background-size: cover; */
 }
 #about h2 {
@@ -420,13 +420,6 @@ h2 {
     background-attachment: inherit;
     background-size: contain;
   }
-}
-/*各背景の画像*/
-.img-bg-01 {
-  background-image: url(../image/wall3.jpg);
-}
-#about {
-  background-image: url(../image/wall3.jpg);
 }
 
 /* border で囲む about */
