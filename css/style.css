@@ -416,14 +416,18 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
 }
+@media screen and (max-width: 767px) {
+  .parallax-bg {
+    background-attachment: inherit;
+    background-position: inherit;
+  }
+}
 /*各背景の画像*/
 .img-bg-01 {
   background-image: url(../image/wall2.jpg);
-  /* background-size: cover; */
 }
 #about {
   background-image: url(../image/wall2.jpg);
-  /* background-size: cover; */
 }
 
 /* border で囲む about */
